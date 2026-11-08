@@ -15,7 +15,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Audit-Trail-Compliance-Logging/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Audit-Trail-Compliance-Logging?style=social)](https://github.com/ishandutta2007/Awesome-Audit-Trail-Compliance-Logging/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Audit-Trail-Compliance-Logging?style=social)](https://github.com/ishandutta2007/Awesome-Audit-Trail-Compliance-Logging/stargazers)
 
 </div>
 
